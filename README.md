@@ -29,18 +29,6 @@ npm run dev
         <li><code>npm install</code> - Installs project dependencies.</li>
         <li><code>npm run dev</code> - Starts the development server.</li>
     </ol>
-    <h2>Git Commands</h2>
-    <ol>
-        <li><code>git init</code> - Initializes a new Git repository.</li>
-        <li><code>git add .</code> - Adds all files to the staging area.</li>
-        <li><code>git commit -m "Initial commit"</code> - Commits the changes with a message.</li>
-        <li><code>git remote add origin [repository URL]</code> - Adds a remote repository.</li>
-        <li><code>git branch -M main</code> - Renames the default branch to main.</li>
-        <li><code>git push -u origin main</code> - Pushes the changes to the remote repository.</li>
-        <li><code>git pull origin main</code> - Pulls changes from the remote main branch.</li>
-        <li><code>git pull origin main --allow-unrelated-histories</code> - Pulls unrelated histories from the remote main branch.</li>
-        <li><code>git push -u origin main --force</code> - Forces push changes to the remote main branch.</li>
-    </ol>
     <p>Feel free to explore and modify the code as needed!</p>
 </body>
 
